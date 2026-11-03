@@ -1,2 +1,2 @@
 # Hospitality-Operations-Intelligence-Initiative-Highlighting-Analytics-For-Operational-Optimization
-The purpose of this project is to build a comprehensive operational baseline that quantifies Time, Scale, and Cost inefficiencies of Grandstay Hotel using structured enterprise data. The project proposes adopting AI for growth and cost reduction. 
+Hi, this project is exploring how to use an AI called Intelligent Travel Concierge to make guest support more helpful and responsive. My focus is on answering routine enquiries, connecting guests with human support when needed, and using data to evaluate improvements in response times, service capacity, and costs. For me, it’s about combining AI with thoughtful, evidence-led decisions to support a better guest experience. 
